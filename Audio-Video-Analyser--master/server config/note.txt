@@ -1,0 +1,1 @@
+place it in home and current directory to give access to code to run certain scripts like upload run

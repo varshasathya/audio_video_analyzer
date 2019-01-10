@@ -1,0 +1,714 @@
+astrophysics
+astronomy
+atom
+B
+beaker
+Africa
+altitude
+analemma
+Antarctica
+Antarctic Circle
+antipodes
+Arctic
+Arctic Circle
+area
+Asia
+atlas
+Australia
+azimuth
+B
+bathymetric map
+border
+C
+capital
+capital city
+cartographer
+cartography
+chart
+city
+compass rose
+continent
+contour line
+country
+D
+degree of latitude
+degree of longitude
+E
+Earth
+east
+Eastern Hemisphere
+elevation
+equator
+Europe
+G
+geographic coordinates
+geography
+global
+globe
+GPS
+great circle
+H
+hemisphere
+I
+IDL
+International Date Line
+island
+K
+key
+kilometers
+L
+land
+landform
+latitude
+legend
+longitude
+M
+magnetic pole
+map
+map-maker
+map-making
+map projection
+Mercator Projection
+meridian
+miles
+mountain
+mountain range
+N
+nation
+nautical chart
+north
+northeast
+Northern Hemisphere
+northwest
+North America
+North Magnetic Pole
+North Pole
+O
+ocean
+P
+parallel
+peak
+pole
+political map
+prime meridian
+projection
+R
+ratio
+region
+relief map
+river
+road atlas
+rose
+S
+scale
+scale bar
+sea
+sea level
+south
+southeast
+southwest
+South America
+Southern Hemisphere
+South Magnetic Pole
+South Pole
+street map
+T
+territory
+time zone
+title
+topographic map
+topography
+tributary
+Tropic of Cancer
+Tropic of Capricorn
+tropics
+W
+weather map
+west
+Western Hemisphere
+world
+biochemistry
+biology
+botany
+Bunsen burner
+burette
+C
+cell
+chemical
+chemistry
+climate
+climatologist
+control
+cuvette
+D
+data
+datum
+E
+electricity
+electrochemist
+element
+energy
+entomology
+evolution
+experiment
+F
+fact
+flask
+fossil
+funnel
+G
+genetics
+geology
+geophysics
+glassware
+graduated cylinder
+gravity
+H
+herpetology
+hypothesis
+I
+ichthyology
+immunology
+L
+lab
+laboratory
+laws
+lepidoptery
+M
+magnetism
+mass
+matter
+measure
+meteorologist
+meteorology
+microbiologist
+microbiology
+microscope
+mineral
+mineralogy
+molecule
+motion
+O
+observe
+observatory
+organism
+ornithology
+P
+
+aerodynamics
+agronomy
+anatomy
+anthropology
+archaeology
+astronomy
+atmospheric sciences
+B
+bacteriology
+biochemistry
+biology
+biophysics
+botany
+C
+cartography
+chemistry
+climatology
+computer science
+cosmology
+criminology
+D
+dermatology
+developmental biology
+E
+earth sciences
+ecology
+economics
+embryology
+entomology
+epidemiology
+ergonomics
+ethnology
+evolutionary biology
+exobiology
+F
+forestry
+G
+genetics
+genomics
+geology
+geophysics
+gerontology
+glaciology
+H
+hematology
+herpetology
+histology
+horticulture
+hydrology
+I
+ichthyology
+immunology
+inorganic chemistry
+K
+kinesiology
+kinetics
+L
+linguistics
+M
+marine biology
+materials science
+mechanics
+metallurgy
+meteorology
+microbiology
+mineralogy
+molecular biology
+morphology
+N
+neurology
+neuroscience
+nuclear physics
+nutrition
+O
+oceanography
+oncology
+optics
+algorithm
+analog
+app
+application
+array
+B
+backup
+bandwidth
+binary
+bit
+bitmap
+bite
+blog
+blogger
+bookmark
+boot
+broadband
+browser
+buffer
+bug
+bus
+byte
+C
+cache
+caps lock
+captcha
+CD
+CD-ROM
+client
+clip art
+clip board
+cloud computing
+command
+compile
+compress
+computer
+computer program
+configure
+cookie
+copy
+CPU (central processing unit)
+cybercrime
+cyberspace
+D
+dashboard
+data
+database
+data mining
+debug
+decompress
+delete
+desktop
+development
+digital
+disk
+DNS (domain name system)
+document
+D (cont.)
+domain
+domain name
+dot
+dot matrix
+download
+drag
+DVD (digital versatile disc)
+dynamic
+E
+email
+emoticon
+encrypt
+encryption
+enter
+exabyte
+F
+FAQ (frequently asked questions)
+file
+finder
+firewall
+firmware
+flaming
+flash
+flash drive
+floppy disk
+flowchart
+folder
+font
+format
+frame
+freeware
+G
+gigabyte
+graphics
+H
+hack
+hacker
+hardware
+home page
+host
+html
+hyperlink
+hypertext
+I
+icon
+inbox
+integer
+interface
+Internet
+IP address
+iteration
+J
+Java
+joystick
+junk mail
+K
+kernel
+key
+keyboard
+keyword
+L
+laptop
+laser printer
+link
+login
+log out
+logic
+lurking
+M
+mainframe
+macro
+malware
+media
+memory
+mirror
+modem
+monitor
+motherboard
+mouse
+multimedia
+N
+net
+network
+node
+notebook computer
+O
+offline
+online
+open source
+operating system
+option
+output
+P
+page
+password
+paste
+path
+phishing
+piracy
+pirate
+platform
+plug-in
+podcast
+pop-up
+portal
+print
+printer
+privacy
+process
+program
+programmer
+protocol
+Q
+queue
+QWERTY
+R
+RAM (random access memory)
+real-time
+reboot
+resolution
+restore
+ROM (read only memory)
+root
+router
+runtime
+S
+save
+scan
+scanner
+screen
+screenshot
+script
+scroll
+scroll bar
+search engine
+security
+server
+shareware
+shell
+shift
+shift key
+snapshot
+social networking
+software
+spam
+spammer
+spreadsheet
+status bar
+storage
+spyware
+supercomputer
+surf
+
+organic chemistry
+ornithology
+P
+paleontology
+parasitology
+pathology
+petrology
+physics
+physiology
+political science
+psychology
+Q
+quantum chemistry
+quantum physics
+R
+radiology
+robotics
+S
+seismology
+sociobiology
+sociology
+T
+taxonomy
+tectonics
+thermodynamics
+toxicology
+U
+urology
+V
+virology
+volcanology
+vulcanology
+X
+xenobiology
+xylology
+Z
+zoologypaleontology
+particle
+Petri dish
+phase
+physical science
+physics
+pipette
+Q
+quantum mechanics
+R
+radiology
+research
+retort
+S
+scale
+science
+scientist
+seismology
+T
+telescope
+temperature
+test tube
+theory
+thermometer
+tissue
+V
+variable
+virologist
+volcanology
+volume
+volumetric flask
+W
+watch glass
+weather
+weigh
+Z
+zoology
+Abroad sector - R & D
+ADSL
+Applied research
+Asymmetric digital subscriber line
+Auxiliary personnel
+B
+Basic research
+Biotechnology
+Boundaries of R & D
+Broadband
+Business enterprise sector - R & D
+C
+Capital expenditure for R & D
+Capital innovation expenditures
+CERN
+CIS (2)
+CNRS
+Community innovation survey (CIS)
+Community survey on ICT usage in enterprises
+Community survey on ICT usage in households and by individuals
+Current innovation expenditures
+D
+Dial-up
+Digital subscriber line (DSL)
+Domestic patent applications
+DSL
+E
+E-business
+E-commerce
+E-government
+EPC
+EPO
+ERA
+EU KLEMS
+Euro-PCT applications
+European Organization for Nuclear Research (CERN)
+European Patent Convention (Munich Convention)
+European Patent Office (EPO)
+European Research Area (ERA)
+Experimental development
+F
+Firm-only TPP innovation
+G
+GBAORD
+GERD
+Government budget appropriations or outlays for research and development (GBAORD)
+Government sector - R & D
+Gross domestic expenditure on R & D (GERD)
+H
+Headcount data - R & D
+High-tech
+High-tech classification of manufacturing industries
+H cont.
+Higher education sector - R & D
+HRST
+Human resources in science and technology (HRST)
+Human resources in science and technology (HRST) flow
+Human resources in science and technology (HRST) stock
+I
+ICT
+Information and communication technology (ICT)
+Innovating enterprise
+Innovation
+Innovation activity
+Innovation output indicator (IOI)
+Innovation union scoreboard (IUS)
+Innovation-active firm
+Institutional sector - R & D
+Instruments and equipment for R & D
+Intellectual property right
+International patent classification (IPC)
+Invention
+IPC
+K
+KIS
+Knowledge Intensive Activity (KIA)
+Knowledge-based economy
+Knowledge-intensive services (KIS)
+L
+Land and buildings
+R & D
+Leading operator
+Local call
+Long-distance call
+M
+Market producer
+Marketing innovation
+Mobile communication
+Mobile phone subscription
+Munich Convention
+N
+Narrowband
+National Center for Scientific Research
+National public funding to transnationally coordinated research
+New product
+Non-market output
+Non-market producer
+Novel product
+O
+Organisational innovation
+P
+Patent
+Patent application
+Patent Cooperation Treaty (PCT)
+PCT
+Private non-profit sector - R & D
+P cont.
+Process innovation
+Product innovation
+Professionals group
+Prototype
+Public general university funds
+Pure basic research
+R
+R & D
+R & D expenditure
+R & D expenditure by source of funds
+R & D input
+R & D intensity
+R & D intramural expenditure
+Radio frequency identification (RFID)
+Regional intramural R & D expenditure
+Regional total R & D personnel
+Research and development (R & D)
+Research and development (R & D) personnel and researchers
+Research and experimental development (R & D)
+Researcher
+RFID
+R & D extramural expenditures
+S
+Satellite account for research and development (R & D)
+Scientific and technical education and training (STET)
+Scientific and technical personnel
+Scientific and technological activities (STA)
+Scientific and technological services (STS)
+Scientists and engineers
+Skill
+STET
+Strasbourg agreement
+T
+TBP
+Technicians and associate professionals group
+Technological innovation
+Technological process innovation
+Technological product and process innovating firm
+Technological product and process innovation (TPP)
+Technological product innovation
+Technologically improved product
+Technologically new product
+Technology balance of payments (TBP)
+TPP
+Transnationally coordinated research
+V
+Venture Capital Investment (VCI)
+W
+Worldwide technological product and process innovation

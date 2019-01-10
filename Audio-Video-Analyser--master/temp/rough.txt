@@ -1,0 +1,7 @@
+SELECT * FROM data_details WHERE processed_state=1 and add_person=0;
+
+SELECT * FROM data_details WHERE add_person=1 and trained_status=0;
+
+select * from data_details where processed_state=0;
+if 100%:
+    update data_details set processed_state=1 where 
